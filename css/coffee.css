@@ -4,5 +4,9 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 
+}
 
+h1.aboutcoffee{
+	text-align: center;
+	font-size: 2em;
 }
