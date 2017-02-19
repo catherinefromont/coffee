@@ -1,4 +1,5 @@
 
+
 .about{
 
 	background-image: url('../Images/coffeeabout.jpg');
@@ -121,3 +122,34 @@ div.contentabout{
 
 }
 
+
+.coffee-types{
+
+	background-image: url('../Images/coffee-types.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.heading{
+	text-align: center;
+	font-size: 3em;
+	color: #ffffff;
+	margin-bottom: 80px;
+}
+
+.type{
+	text-align: center;
+	font-size: 2em;
+	color: #ffffff;
+}
+
+.caption{
+	text-align: center;
+	font-size: 1em;
+	color: #ffffff;
+}
+
+.destinations{
+  margin-bottom: 20px;
+  text-align: center;
+}
