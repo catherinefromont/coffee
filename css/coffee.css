@@ -1,6 +1,7 @@
-body.main{
 
-	background-image: url('../images/coffee-background.jpeg');
+.about{
+
+	background-image: url('../Images/coffeeabout.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 padding-bottom:150px;
@@ -97,4 +98,26 @@ h3.box-title
 	margin: 30px 0 50px;
 }
 
+
+
+
+
+
+h1.aboutcoffee{
+	text-align: center;
+	font-size: 4em;
+	color: black;
+
+}
+
+div.contentabout{
+	color: black;
+	padding: 20px;
+	margin-top: 100px;
+	font-size: 1.5em;
+	margin-bottom: 200px;
+	
+	
+
+}
 
