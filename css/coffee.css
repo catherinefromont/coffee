@@ -1,8 +1,100 @@
-body{
+body.main{
 
 	background-image: url('../images/coffee-background.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
-
+padding-bottom:150px;
+padding-top: 50px;
 
 }
+
+#boxes
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.main-title
+{
+	text-align: center;
+	
+	padding-bottom: 20px;
+
+}
+
+h1.main-title
+{
+	color: white;
+	letter-spacing: 2px;
+	font-size: 65px;
+	font-weight: 600;
+	text-shadow: 1px 2px 3px black;
+}
+
+.intro-text
+{
+	padding-bottom: 100px;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 1px;
+	text-shadow: black 1px 1px 1px;
+}
+.box-title
+{
+	text-align: center;
+	letter-spacing: 2px
+	color:white;
+}
+h3.box-title
+{
+	color: white;
+	letter-spacing: 2px;
+	font-weight: 300;
+}
+.info
+{
+	text-align: center;
+	color: white;
+	letter-spacing: 1px;
+	padding-bottom: 80px;
+	font-weight: 300;
+}
+
+.box
+{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.box.p
+{
+	background-color: pink;
+}
+.box.r
+{
+	background-color: red;
+}
+.box.g
+{
+	background-color: green;
+}
+.box.b
+{
+	background-color: blue;
+}
+
+
+
+.btn.btn-lg
+
+{
+	background-color: rgba(255,255,255,0.8);
+
+}
+
+.featurette-divider
+{
+	margin: 30px 0 50px;
+}
+
+
