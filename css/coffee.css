@@ -1,6 +1,6 @@
 #coffee-types{
 
-	background-image: url('../images/coffee-types.jpeg');
+	background-image: url('../Images/coffee-types.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -15,3 +15,4 @@ p.coffee-types{
 	text-align: center;
 	font-size: .05em;
 }
+
