@@ -1,8 +1,17 @@
-body{
+#coffee-types{
 
 	background-image: url('../images/coffee-background.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
+}
 
+/*Types of Coffee*/
+h2.coffee-types{
+	text-align: center;
+	font-size: 1em;
+}
 
+p.coffee-types{
+	text-align: center;
+	font-size: .05em;
 }
