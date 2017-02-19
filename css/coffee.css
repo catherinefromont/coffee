@@ -1,12 +1,21 @@
-body{
+#about{
 
-	background-image: url('../images/coffee-background.jpeg');
+	background-image: url('../images/coffeeabout.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 
 }
 
+
+
 h1.aboutcoffee{
 	text-align: center;
-	font-size: 2em;
+	font-size: 3em;
+}
+
+div.contentabout{
+	background-color: rgb(230,230,230);
+	padding: 20px;
+	margin-top: 200px;
+	font-size: 1.5em;
 }
