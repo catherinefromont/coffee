@@ -1,6 +1,8 @@
-body.main{
 
-	background-image: url('../images/coffee-background.jpeg');
+
+.about{
+
+	background-image: url('../Images/coffeeabout.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 padding-bottom:150px;
@@ -101,3 +103,77 @@ h3.box-title
 }
 
 
+
+
+
+
+h1.aboutcoffee{
+	text-align: center;
+	font-size: 4em;
+	color: black;
+
+}
+
+div.contentabout{
+	color: black;
+	padding: 20px;
+	margin-top: 100px;
+	font-size: 1.5em;
+	margin-bottom: 200px;
+	
+	
+
+}
+
+
+.coffee-types{
+
+	background-image: url('../Images/coffee-beans.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+<<<<<<< HEAD
+=======
+.coffee-selection{
+background-color: rgba(155, 133, 121, 0.7);
+padding: 20px;
+margin-bottom: 50px;
+border-radius: 50px;
+}
+
+/*Types of Coffee*/
+>>>>>>> Sinead's-Branch
+.heading{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 4.5em;
+	color: #ffffff;
+	margin-bottom: 40px;
+}
+
+.type{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 3em;
+	color: #ffffff;
+}
+
+.caption{
+	text-align: center;
+	font-size: 1em;
+	color: #ffffff;
+	padding-bottom: 15px;
+}
+
+.destinations{
+  margin-bottom: 20px;
+  text-align: center;
+}
+<<<<<<< HEAD
+=======
+
+.img-circle{
+	border: solid .8em #C49A6C;
+}
+>>>>>>> Sinead's-Branch
