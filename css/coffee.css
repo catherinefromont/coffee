@@ -67,7 +67,11 @@ padding-top: 50px;
 }
 
 
-
+.col-md-4.foot
+{
+	 
+	margin-top: -40px;
+}
 
 
 
@@ -158,6 +162,8 @@ div.contentabout{
 .foot-text
 {
 	color: white;
+	letter-spacing: 1px;
+
 }
 
 .col-md-4.foot
@@ -170,6 +176,7 @@ div.contentabout{
 	background-image: url('../images/coffee-beans.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
+	padding-bottom: 50px;
 }
 
 .footer-width

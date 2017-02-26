@@ -73,15 +73,7 @@ include 'includes/header.php'
 		</div>
 		
 	</div>
-	<div class="col-md-10 col-md-offset-1">
-
-		<hr class="featurette-divider">
-
-		<!-- <p class="intro-text">
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua.
-		</p> -->
-	</div>
+	
 	<?php
 
 	include 'includes/footer.php';
