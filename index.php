@@ -82,11 +82,10 @@ include 'includes/header.php'
 			tempor incididunt ut labore et dolore magna aliqua.
 		</p> -->
 	</div>
-	
+	<?php
+
+	include 'includes/footer.php';
+
+	?>
 </div>
 
-<?php
-
-include 'includes/footer.php';
-
-?>

@@ -155,6 +155,15 @@ div.contentabout{
 
 }
 
+.foot-text
+{
+	color: white;
+}
+
+.col-md-4.foot
+{
+	float: right;
+}
 
 .coffee-types{
 
@@ -163,6 +172,11 @@ div.contentabout{
 	background-repeat: no-repeat;
 }
 
+.footer-width
+{
+	max-width: 1200px;
+	margin: 0 auto;
+}
 
 .coffee-selection{
 background-color: rgba(155, 133, 121, 0.7);
