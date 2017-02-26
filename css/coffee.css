@@ -92,12 +92,20 @@ padding-top: 50px;
 	margin: 0 auto;
 }
 
-.btn.btn-lg
 
+.button-center
 {
-;
+	text-align: center;
+}
+
+.btn-lg.center
+{
+	background-color: #c4986c;
+	border:none;
 
 }
+
+
 
 .featurette-divider
 {
