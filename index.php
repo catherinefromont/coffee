@@ -9,7 +9,7 @@ include 'includes/header.php'
 		<div class="row">
 
 			<div class="col-md-8 col-md-offset-2">
-			<h1 class="main-title"><img class="img-responsive" src="Images/banner.png"></h1>
+				<h1 class="main-title"><img class="img-responsive" src="Images/banner.png"></h1>
 			</div>
 
 		</div>
@@ -37,23 +37,25 @@ include 'includes/header.php'
 				<h3 class="box-title">ABOUT</h3>
 				<hr class="featurette-divider">
 				<p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. 
+					tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.
 				</p>
 				<div class="button-center">
-				<a href="about.php" class="btn btn-primary btn-lg center" >Take Me There</button>
-				</a>
+					<a href="about.php" class="btn btn-primary btn-lg center" >Take Me There</button>
+					</a>
 				</div>
 			</div>
 
 			<div class="col-md-6 box r">
 				<h3 class="box-title">TYPES</h3>
 				<hr class="featurette-divider">
-				<p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. 
+				<p class="info"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.
 				</p>
 				<div class="button-center">
-				<a href="coffee-types.php"  class="btn btn-primary btn-lg center">Take Me There</button>
-				</a>
+					<a href="coffee-types.php"  class="btn btn-primary btn-lg center">Take Me There</button>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -61,27 +63,29 @@ include 'includes/header.php'
 		<div class="row">
 			<div class="col-md-6 box g">
 				
-					<h3 class="box-title">GALLERY</h3>
-					<hr class="featurette-divider">
-					<p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. 
-					</p>
-					<div class="button-center">
+				<h3 class="box-title">GALLERY</h3>
+				<hr class="featurette-divider">
+				<p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.
+				</p>
+				<div class="button-center">
 					<a href="#!" class="btn btn-primary btn-lg center" >Take Me There</button>
 					</a>
-					</div>
+				</div>
 				
 			</div>
 			<div class="col-md-6 box b">
 				<h3 class="box-title">CONTACT</h3>
 				<hr class="featurette-divider">
 				<p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. 
+					tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.
 				</p>
 				<div class="button-center">
-				<a href="#!"  class="btn btn-primary btn-lg center" >Take Me There</button>
-				</a>
-</div>
+					<a href="#!"  class="btn btn-primary btn-lg center" >Take Me There</button>
+					</a>
+				</div>
 
 
 			</div>
