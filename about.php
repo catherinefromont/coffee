@@ -1,20 +1,9 @@
+
 <?php
+include 'includes/header.php'
 ?>
-<!DOCTYPE html>
-<html lang="en-NZ">
-
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE-Edge">
 
 
-	<title>About Coffee</title>
-
-	<link rel="stylesheet" type="text/css" href="css/coffee.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-</head>
 <body>
 
 <div id="main">
@@ -50,6 +39,8 @@
 
 </div>
 
+<?php
 
-	</body>
-	</html>
+include 'includes/footer.php';
+
+?>
