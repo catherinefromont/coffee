@@ -1,5 +1,6 @@
 
 
+
 .about{
 
 
@@ -13,7 +14,9 @@ padding-top: 50px;
 }
 #main
 {
-	background-image: url('../Images/coffee-main.jpg');
+	background-color:#c4986c;
+	padding-bottom:150px;
+	padding-top: 50px;
 
 }
 #boxes
@@ -24,20 +27,13 @@ padding-top: 50px;
 
 .main-title
 {
-	text-align: center;
 	
+	text-align: center;
 	padding-bottom: 20px;
 
 }
 
-h1.main-title
-{
-	color: white;
-	letter-spacing: 2px;
-	font-size: 65px;
-	font-weight: 600;
-	text-shadow: 1px 2px 3px black;
-}
+
 
 .intro-text
 {
@@ -54,12 +50,7 @@ h1.main-title
 	letter-spacing: 2px
 	color:white;
 }
-h3.box-title
-{
-	color: white;
-	letter-spacing: 2px;
-	font-weight: 300;
-}
+
 .info
 {
 	text-align: center;
@@ -144,6 +135,7 @@ div.contentabout{
 	background-repeat: no-repeat;
 }
 
+
 .coffee-selection{
 background-color: rgba(155, 133, 121, 0.7);
 padding: 20px;
@@ -151,7 +143,10 @@ margin-bottom: 50px;
 border-radius: 50px;
 }
 
-.heading{
+/*Types of Coffee*/
+
+.heading,
+.main-title{
 	font-family: 'Lobster', cursive;
 	text-align: center;
 	font-size: 4.5em;
@@ -159,7 +154,9 @@ border-radius: 50px;
 	margin-bottom: 40px;
 }
 
-.type{
+.type,
+.box-title
+{
 	font-family: 'Lobster', cursive;
 	text-align: center;
 	font-size: 3em;
