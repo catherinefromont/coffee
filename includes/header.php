@@ -11,3 +11,25 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 </head>
+
+<div class="container">
+	<div class="row">
+
+		<div class="col-md-8 col-md-offset-2">
+			<h1 class="main-title"><img class="img-responsive" src="Images/banner.png"></h1>
+		</div>
+
+	</div>
+	<!-- <div class="col-md-6 image col-md-offset-3">	
+		<img class="img-responsive" src="Images/logo300.png">
+	</div> -->
+</div>
+<div class="col-md-10 col-md-offset-1">
+
+	<hr class="featurette-divider">
+
+	<!-- <p class="intro-text">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua.
+	</p> -->
+</div>
