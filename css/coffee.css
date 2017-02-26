@@ -83,7 +83,9 @@ h3.box-title
 }
 .box.r
 {
-	background-color: red;
+	background-image: url('../Images/coffee-beans.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .box.g
 {
