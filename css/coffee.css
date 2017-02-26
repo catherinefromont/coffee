@@ -1,21 +1,30 @@
 .coffee-types{
 
-	background-image: url('../Images/coffee-types.jpeg');
+	background-image: url('../Images/coffee-beans.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
+.coffee-selection{
+background-color: rgba(155, 133, 121, 0.7);
+padding: 20px;
+margin-bottom: 50px;
+border-radius: 50px;
+}
+
 /*Types of Coffee*/
 .heading{
+	font-family: 'Lobster', cursive;
 	text-align: center;
-	font-size: 3em;
+	font-size: 4.5em;
 	color: #ffffff;
-	margin-bottom: 80px;
+	margin-bottom: 40px;
 }
 
 .type{
+	font-family: 'Lobster', cursive;
 	text-align: center;
-	font-size: 2em;
+	font-size: 3em;
 	color: #ffffff;
 }
 
@@ -23,9 +32,14 @@
 	text-align: center;
 	font-size: 1em;
 	color: #ffffff;
+	padding-bottom: 15px;
 }
 
 .destinations{
   margin-bottom: 20px;
   text-align: center;
+}
+
+.img-circle{
+	border: solid .8em #C49A6C;
 }
