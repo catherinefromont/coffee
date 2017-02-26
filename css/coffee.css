@@ -105,6 +105,11 @@ padding-top: 50px;
 
 }
 
+.btn-lg.center:hover
+{
+	background-color: #8b5e3c;
+}
+
 
 
 .featurette-divider
