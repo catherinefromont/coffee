@@ -69,7 +69,7 @@ padding-top: 50px;
 }
 .box.p
 {
-	background-image: url('../images/coffeeabout.jpg');
+	background-image: url('../images/coffee-shop.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	
@@ -82,7 +82,7 @@ padding-top: 50px;
 }
 .box.g
 {
-	background-image: url('../images/coffee-shop.jpg');
+	background-image: url('../images/coffeeabout.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }

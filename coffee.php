@@ -40,7 +40,7 @@ include 'includes/header.php'
 					tempor incididunt ut labore et dolore magna aliqua. 
 				</p>
 				<div class="button-center">
-				<a href="about.html" class="btn btn-primary btn-lg center" >Take Me There</button>
+				<a href="about.php" class="btn btn-primary btn-lg center" >Take Me There</button>
 				</a>
 				</div>
 			</div>
@@ -52,7 +52,7 @@ include 'includes/header.php'
 					tempor incididunt ut labore et dolore magna aliqua. 
 				</p>
 				<div class="button-center">
-				<a href="coffee-types.html"  class="btn btn-primary btn-lg center">Take Me There</button>
+				<a href="coffee-types.php"  class="btn btn-primary btn-lg center">Take Me There</button>
 				</a>
 				</div>
 			</div>
@@ -67,7 +67,7 @@ include 'includes/header.php'
 						tempor incididunt ut labore et dolore magna aliqua. 
 					</p>
 					<div class="button-center">
-					<a href="gallery.html" class="btn btn-primary btn-lg center" >Take Me There</button>
+					<a href="#!" class="btn btn-primary btn-lg center" >Take Me There</button>
 					</a>
 					</div>
 				
