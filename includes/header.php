@@ -15,8 +15,8 @@
 <div class="container">
 	<div class="row">
 
-		<div class="col-md-8 col-md-offset-2">
-			<h1 class="main-title"><img class="img-responsive" src="Images/banner.png"></h1>
+		<div class="col-md-8 col-md-offset-2"><a href="index.php">
+			<h1 class="main-title"><img class="img-responsive" src="Images/banner.png"></h1></a>
 		</div>
 
 	</div>
