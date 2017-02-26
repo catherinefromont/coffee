@@ -5,7 +5,7 @@
 
 
 
-	background-image: url('../Images/coffeeabout.jpg');
+	background-image: url('../images/coffeeabout.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 padding-bottom:150px;
@@ -14,7 +14,7 @@ padding-top: 50px;
 }
 #main
 {
-	background-image: url('../Images/wood1.jpg');
+	background-image: url('../images/wood1.jpg');
 	padding-bottom:150px;
 	padding-top: 50px;
 
@@ -67,24 +67,28 @@ padding-top: 50px;
 }
 .box.p
 {
-	background-image: url('../Images/coffeeabout.jpg');
+	background-image: url('../images/coffeeabout.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	
 }
 .box.r
 {
-	background-image: url('../Images/coffee-beans.jpeg');
+	background-image: url('../images/coffee-beans.jpeg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .box.g
 {
-	background-color: green;
+	background-image: url('../images/coffee-shop.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .box.b
 {
-	background-color: blue;
+	background-image: url('../images/gallerycof.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .img-responsive
@@ -143,7 +147,7 @@ div.contentabout{
 
 .coffee-types{
 
-	background-image: url('../Images/coffee-beans.jpeg');
+	background-image: url('../images/coffee-beans.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
